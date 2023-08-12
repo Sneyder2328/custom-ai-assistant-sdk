@@ -18,7 +18,7 @@
       "prepare": "npm run build"
     },
     "publishConfig": {
-      "registry": "https://npm.pkg.github.com/@Sneyder2328"
+      "registry": "https://npm.pkg.github.com/@sneyder2328"
     },
     "repository": "git@github.com:Sneyder2328/custom-ai-assistant-sdk.git",
     "dependencies": {
